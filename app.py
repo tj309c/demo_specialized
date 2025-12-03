@@ -967,7 +967,7 @@ with st.sidebar:
     st.divider()
 
     # Theme Toggle (Dark/Light Mode)
-    dark_mode = st.toggle("🌙 **DARK MODE**", value=True, help="Toggle between dark and light theme")
+    dark_mode = st.toggle("🌙 **DARK MODE**", value=False, help="Toggle between dark and light theme")
 
     # Pitch Mode Toggle
     pitch_mode = st.toggle("🎯 **PITCH MODE**", value=True, help="Enable strategic insight cards and talking points for presentations")
