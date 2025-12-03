@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(streamlit run:*)",
+      "Bash(git -C \"c:\\Users\\603506\\Desktop\\Trevor_Python\\Sample for Specialized\\v4\" status)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
